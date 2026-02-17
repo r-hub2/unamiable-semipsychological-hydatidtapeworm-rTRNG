@@ -35,7 +35,7 @@ Collate: 'LdFlags.R' 'RcppExports.R' 'TRNG.Engine.R' 'TRNG.Random.R'
         'defaultKind.R' 'inline.R' 'rTRNG-package.R' 'rbinom_trng.R'
         'rlnorm_trng.R' 'rnorm_trng.R' 'rpois_trng.R' 'runif_trng.R'
         'zzz.R'
-Packaged: 2026-02-17 10:53:16 UTC; riccardo
+Packaged: 2026-02-17 12:39:46 UTC; riccardo
 Author: Riccardo Porreca [aut, cre],
   Roland Schmid [aut],
   Mirai Solutions GmbH [cph],

@@ -1,6 +1,7 @@
-CXX17FLAGS += -Werror=deprecated
-CXX11FLAGS += -Werror=deprecated
-CXXFLAGS += -Werror=deprecated
+# CXX_STD = CXX20
+
+# CXX = g++ -std=gnu++20
+# CXX = clang++ -stdlib=libc++ -std=gnu++20
 
 PKG_LIBS += $(shell ${R_HOME}/bin/Rscript \
               -e "RcppParallel::RcppParallelLibs()")
